@@ -1,0 +1,1 @@
+L'option -L permet d'obtenir la liste des genres

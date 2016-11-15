@@ -1,0 +1,1 @@
+L'option -g suivi du numero voulu puis du fichier mp3 permet d'ajouter le genre correspondant au fichier mp3
